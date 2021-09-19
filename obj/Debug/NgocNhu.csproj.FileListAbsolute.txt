@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\NgocNhu\NgocNhu\bin\Debug\NgocNhu.exe.config
+C:\Users\ADMIN\source\repos\NgocNhu\NgocNhu\bin\Debug\NgocNhu.exe
+C:\Users\ADMIN\source\repos\NgocNhu\NgocNhu\bin\Debug\NgocNhu.pdb
+C:\Users\ADMIN\source\repos\NgocNhu\NgocNhu\obj\Debug\NgocNhu.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\NgocNhu\NgocNhu\obj\Debug\NgocNhu.Form1.resources
+C:\Users\ADMIN\source\repos\NgocNhu\NgocNhu\obj\Debug\NgocNhu.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\NgocNhu\NgocNhu\obj\Debug\NgocNhu.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\NgocNhu\NgocNhu\obj\Debug\NgocNhu.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\NgocNhu\NgocNhu\obj\Debug\NgocNhu.exe
+C:\Users\ADMIN\source\repos\NgocNhu\NgocNhu\obj\Debug\NgocNhu.pdb
